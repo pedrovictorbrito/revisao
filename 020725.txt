@@ -1,0 +1,55 @@
+AUTOSSÔMICA DOMINANTE
+Acondroplasia - FGFr3 (E: 80-90%)
+Marfan - FBN1 (E: 25%)
+Huntington - HTT (E: 1%)
+Machado-Joseph - ATXN3 (E: 1%)
+von Willebrand I e II - VWF (E: 5-10%)
+
+AUTOSSÔMICA RECESSIVA
+Hemocromatose
+Fibrose cística
+Anemia falciforme
+Fenilcetonúria
+Albinismo
+Tay-Sachs
+Galactosemia
+Gaucher
+Niemann-Pick
+Mucopolissacaridose
+von Willebrand III
+
+LIGADA AO X
+Daltonismo vermelho-verde
+Hemofilia
+Duchenne
+Lesch-Nyhan
+
+ACONDROPLASIA
+- FISIOPATOLOGIA: Ganho de função do FGFR3 (fibroblast growth factor receptor 3) = Inibe a proliferação dos condrócitos dos ossos longos + Preservação do crânio e pelve
+- HERANÇA: Autossômica dominante + 80% esporádicos
+- FENÓTIPO: Nanismo micromélico (membros curtos) + Macrocefalia relativa
+- DIFERENCIAIS (Outras causas de nanismo): Hipocondroplasia (mais leve = > 140 cm), Displasia diastrófica (deformidade e rigidez articular), Turner (feminino, nanismo proporcional), Osteogenesis imperfecta (fragilidade óssea), Raquitismo (proporcional, fragilidade óssea)
+- ACOMPANHAMENTO: Ortopedia (risco de compressão da medula, deformidades da coluna)
+
+SÍNDROME DE MARFAN
+- FISIOPATOLOGIA: Perda de função do gene da fibrilina-1 (FBN1), levando a aumento da atividade do TGF-beta e fragilidade de vasos, ossos e olhos
+- FENÓTIPO/EF: Alto e magro (dolicoestênico), aracnodactilia
+- DIFERENCIAIS: Ehler-Danlos (também hipermóvel, mas pele elástica e cicatrização alterada), Homocistinúria (mesmo fenótipo, mas sintomas neurológicos e trombofilia), Loeys-Dietz (mesmo fenótipo + fenda palatina + aneurismas difusos)
+- ACOMPANHAMENTO: Oftalmo (subluxação do cristalino), Cardio (PVM, IAo), CxT (pectus), Ortopedia (deformidades da coluna)
+
+SÍNDROME DE HUNTINGTON
+- FISIOPATOLOGIA: Ganho de função do gene da huntingtina (HTT) levando a acúmulo tóxico e morte neuronal
+- APRESENTAÇÃO: Coreia + Demência/Humor de início 30-50a
+- DIFERENCIAIS: Sydenham (crianças, agudo e reversível), coreia sec. a medicamentos (neurolépticos)
+- TRATAMENTO: Inibidores da dopamina (tetrabenazina, antipsicóticos) + Saúde mental
+
+ATAXIA DE MACHADO-JOSEPH
+- FISIOPATOLOGIA: Ganho de função do gene da ataxina-3 (ATXN3) levando a acúmulo tóxico
+- APRESENTAÇÃO: Perda de coordenação, movimentação ocular e disfunção autonômica na meia-idade
+- DIFERENCIAIS: Outras ataxinas (genético), Friedreich (mais precoce e componente sensitivo), deficiência de vitaminas
+
+VON WILLEBRAND I E II
+- FISIOPATOLOGIA: Perda parcial de função do gene vWF que pode ser qualitativa ou quantitativa
+- APRESENTAÇÃO CLÍNICA: Sangramentos mucocutâneos (similar a plaquetopenia), menorragia
+- DIFERENCIAIS: Plaquetopenia (Bernard-Soulier = plaquetas grandes), hemofilia A (sangramentos ocultos)
+- TRATAMENTO: Desmopressina ou concentrados de fVW + VIII 
