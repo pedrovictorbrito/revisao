@@ -1,4 +1,4 @@
-7 15 31 63 127
+15 31 63 127
 PADRÕES DE BRUGADA
 FENÔMENO DE ASHMAN, F. DE LEWIS
 CARCINOMA ADENOIDE CÍSTICO DO PULMÃO 
@@ -98,8 +98,9 @@ She rejected the offer.
 
 I politely declined the invitation.
 
-あなたは「ありがとう」と言うことを怠(おこた)った。
+彼女はスキルアップのための勉強を怠らなかった。
+かのじょは スキルアップの ための べんきょうを おこたらなかった。
 
 .
 
-You neglected to say "Thank you."
+She didn’t neglect studying to improve her skills. 
